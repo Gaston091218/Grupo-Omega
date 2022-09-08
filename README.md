@@ -2,4 +2,4 @@
 
 Mi primer repositorio en GitHub
 
-i love, :burgers:, :movies:, :beer, :Fernet:,
+i love, :burgers, :movies, :beer, :Fernet,
